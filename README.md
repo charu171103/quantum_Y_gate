@@ -18,14 +18,8 @@ It performs a **π rotation around the Y-axis** of the Bloch sphere and introduc
 
 ## 💡 Input States and Their Representations
 
-| State | Vector Form                                             |
-| ----- | ------------------------------------------------------- |
-| \|0⟩  | $\begin{bmatrix}1 \\ 0\end{bmatrix}$                    |
-| \|1⟩  | $\begin{bmatrix}0 \\ 1\end{bmatrix}$                    |
-| \|+⟩  | $\frac{1}{\sqrt{2}}\begin{bmatrix}1 \\ 1\end{bmatrix}$  |
-| \|−⟩  | $\frac{1}{\sqrt{2}}\begin{bmatrix}1 \\ -1\end{bmatrix}$ |
-| \|i⟩  | $\frac{1}{\sqrt{2}}\begin{bmatrix}1 \\ i\end{bmatrix}$  |
-| \|−i⟩ | $\frac{1}{\sqrt{2}}\begin{bmatrix}1 \\ -i\end{bmatrix}$ |
+![image](https://github.com/user-attachments/assets/bbe8c5cb-d2f4-418d-aea3-ce46bf71f87e)
+
 
 ---
 
